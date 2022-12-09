@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13624
-Fork on GitHub
-3597
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kenan Al-jaber</h1>
 <h3 align="center">A passionate software developer from Syria</h3>
 
