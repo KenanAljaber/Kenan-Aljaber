@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Kenan Al-jaber</h1>
 <h3 align="center">A passionate software developer from Syria</h3>
 
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Whatever has to do with OOP, Java, and react**
 
 - 📫 How to reach me **kenan.aljaber.p@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y6hMDZmftdXaH41qkZiXeLACF0KDK89V/view?usp=sharing](https://drive.google.com/file/d/1y6hMDZmftdXaH41qkZiXeLACF0KDK89V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanaljaber&show_icons=true&locale=en" alt="kenanaljaber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenanaljaber&" alt="kenanaljaber" /></p>
-
-
