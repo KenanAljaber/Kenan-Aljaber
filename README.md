@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, AWS, Graphs and advanced algorithms**
 
-- 💬 Ask me about **Whatever has to do with OOP, Java, and react**
+- 💬 Ask me about **anything related to Object-Oriented Programming, Java, and React.**
 
 - 📫 How to reach me **kenan.aljaber.p@gmail.com**
 
