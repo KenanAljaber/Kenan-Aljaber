@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenan Al-jaber</h1>
 <h3 align="center">A passionate software developer</h3>
-<small>France, Le havre</small>
+<small align="center">France, Le havre</small>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanaljaber&label=Profile%20views&color=0e75b6&style=flat" alt="kenanaljaber" /> </p>
 
 - 🔭 I’m currently working at **Kruger Corp as a full-stack developer**
