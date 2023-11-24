@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kenan Al-jaber</h1>
-<h3 align="center">A passionate software developer from Syria</h3>
-
+<h3 align="center">A passionate software developer</h3>
+<small>France, Le havre</small>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanaljaber&label=Profile%20views&color=0e75b6&style=flat" alt="kenanaljaber" /> </p>
 
-- 🔭 I’m currently working on **Kruger Star Program**
-
-- 🌱 I’m currently learning **React, AWS, Graphs and advanced algorithms**
+- 🔭 I’m currently working at **Kruger Corp as a full-stack developer**
 
 - 💬 Ask me about **anything related to Object-Oriented Programming, Java, and React.**
 
